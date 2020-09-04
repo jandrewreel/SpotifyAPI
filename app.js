@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@jandrewreel 
-jandrewreel
-/
-seniorProject
-2
-0
-0
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-seniorProject/app.js /
-@jandrewreel
-jandrewreel Senior Project
-Latest commit 624b2cd on Apr 4
- History
- 1 contributor
-801 lines (578 sloc)  17.4 KB
-  
 /**
  * This is an example of a basic node.js script that performs
  * the Authorization Code oAuth2 flow to authenticate against
@@ -831,15 +799,4 @@ function removeTrackItem(req, res) {
 
 console.log('Listening on 5000');
 app.listen(5000);
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
